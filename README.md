@@ -1,6 +1,8 @@
 # Socials
 [LinkedIn](https://www.linkedin.com/in/deikrun/)
+
 [Gamedev Camp](https://gamedev.camp/teachers)
+
 [demo project code](https://github.com/Aktinis/hay_thief)
 
 
