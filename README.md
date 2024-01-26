@@ -4,6 +4,7 @@
 [Gamedev Camp](https://gamedev.camp/teachers)
 
 [demo project code](https://github.com/Aktinis/hay_thief)
+
 [project with di framework]([https://github.com/Aktinis/hay_thief](https://github.com/Aktinis/cosmos-zenject/))
 
 # Project trailers
