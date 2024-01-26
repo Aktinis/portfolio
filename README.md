@@ -4,7 +4,7 @@
 [Gamedev Camp](https://gamedev.camp/teachers)
 
 [demo project code](https://github.com/Aktinis/hay_thief)
-
+[project with di framework]([https://github.com/Aktinis/hay_thief](https://github.com/Aktinis/cosmos-zenject/))
 
 # Project trailers
 [<img alt="The Lords of the Fallen" width="200px" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1501750/header.jpg?t=1703239193" />](https://www.youtube.com/watch?v=oceLRiqQsko)
