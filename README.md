@@ -7,6 +7,9 @@
 
 [project with di framework](https://github.com/Aktinis/cosmos-zenject/)
 
+[c++ image blur effect](https://github.com/Aktinis/image-blur)
+
+
 # Project trailers
 [<img alt="The Lords of the Fallen" width="200px" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1501750/header.jpg?t=1703239193" />](https://www.youtube.com/watch?v=oceLRiqQsko)
 [<img alt="Cult of the Lamb" width="200px" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1313140/header.jpg?t=1704447560" />](https://www.youtube.com/watch?v=xsPtUNB1z-Q)
