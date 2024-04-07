@@ -3,6 +3,7 @@
 
 [Gamedev Camp](https://gamedev.camp/teachers)
 
+# Demo projects
 [demo project code](https://github.com/Aktinis/hay_thief)
 
 [project with di framework](https://github.com/Aktinis/cosmos-zenject/)
