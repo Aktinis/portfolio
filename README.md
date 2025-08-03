@@ -1,17 +1,8 @@
 # Socials
 [LinkedIn](https://www.linkedin.com/in/deikrun/)
 
-[Gamedev Camp](https://gamedev.camp/teachers)
 
-# Demo projects
-[demo project code](https://github.com/Aktinis/hay_thief)
-
-[project with di framework](https://github.com/Aktinis/cosmos-zenject/)
-
-[c++ image blur effect](https://github.com/Aktinis/image-blur)
-
-
-# Project trailers
+# Project I worked on.
 [<img alt="The Lords of the Fallen" width="200px" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1501750/header.jpg?t=1703239193" />](https://www.youtube.com/watch?v=oceLRiqQsko)
 [<img alt="Cult of the Lamb" width="200px" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1313140/header.jpg?t=1704447560" />](https://www.youtube.com/watch?v=xsPtUNB1z-Q)
 [<img alt="Before We Leave" width="200px" src="https://cdn.cloudflare.steamstatic.com/steam/apps/1073910/header.jpg?t=1704700018" />](https://www.youtube.com/watch?v=I1AzetTTcrw)
